@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Student_db_Assignmnet\Student_db_Assignmnet\obj\Debug\net8.0\Student_db_Assignmnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Student_db_Assignmnet\Student_db_Assignmnet\obj\Debug\net8.0\Student_db_Assignmnet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Student_db_Assignmnet\Student_db_Assignmnet\obj\Debug\net8.0\Student_db_Assignmnet.AssemblyInfo.cs
+C:\Users\User\source\repos\Student_db_Assignmnet\Student_db_Assignmnet\obj\Debug\net8.0\Student_db_Assignmnet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Student_db_Assignmnet\Student_db_Assignmnet\obj\Debug\net8.0\Student_db_Assignmnet.csproj.AssemblyReference.cache
